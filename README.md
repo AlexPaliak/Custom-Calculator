@@ -3,6 +3,6 @@ A multiplatform minimalistic calculator app using Python and the module Kivy. In
 
 # What I learned
 Use the module Kivy in order to:                                                                                                                                         
-     -> Add functionality to Widgets
-     -> Deisgn a minimalistic UI
+     -> Add functionality to Widgets                                                                                                                                     
+     -> Deisgn a minimalistic UI                                                                                                                                         
      -> Handle possible errors and bugs
